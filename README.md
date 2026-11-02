@@ -3,8 +3,8 @@
 Kho lưu trữ bài tập thực hành nhóm môn **Trí Tuệ Nhân Tạo Nâng Cao** (Advanced Artificial Intelligence).
 
 - **Thành viên nhóm:** 
-  - Bùi Minh Trung (MSSV: 3124720074)
-  - Tài
+  - Bùi Minh Trung (MSSV: 3124720074)_VaiTrò: Người code, chạy test notebook
+  - Nguyễn Thành Tài (MSSV: 3124720062)_Vai Trò: Người làm báo cáo
 
 ---
 
