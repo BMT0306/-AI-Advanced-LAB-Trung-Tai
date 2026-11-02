@@ -42,17 +42,5 @@ Kho lưu trữ bài tập thực hành nhóm môn **Trí Tuệ Nhân Tạo Nâng
   - `CSP_graph_coloring_example.ipynb`: Bài toán tô màu bản đồ/đồ thị.
   - `n_queens.ipynb`: Giải bài toán N-Queens dưới dạng bài toán CSP.
 
-### 5. `Lab05_Game`
-- **Mục tiêu:** Tìm kiếm đối kháng (Adversarial Search) và lý thuyết trò chơi (Game AI): Minimax, Alpha-Beta Pruning, AND-OR Search, Monte Carlo Tree Search (MCTS).
-- **Notebooks & Code:**
-  - `tictactoe.py`: Module cài đặt game Caro / Tic-Tac-Toe.
-  - `tictactoe_definitions.ipynb`, `tictactoe_interactive.ipynb`: Khởi tạo và giao diện chơi tương tác.
-  - `tictactoe_and_or_tree_search.ipynb`: Tìm kiếm cây AND-OR.
-  - `tictactoe_alpha_beta_tree_search.ipynb`, `tictactoe_heuristic_alpha_beta_tree_search.ipynb`: Cắt tỉa Alpha-Beta và hàm đánh giá heuristic.
-  - `tictactoe_pure_monte_carlo_search.ipynb`, `tictactoe_monte_carlo_tree_search_restricted.ipynb`: Thuật toán MCTS.
-  - `assignment_connect4.ipynb`, `assignment_mean_connect4.ipynb`: Mở rộng cho game Connect 4.
-  - `assignment_dots_and_boxes.ipynb`: Game Dots and Boxes.
-  - `profiling_code.ipynb`, `store_agent_state_information.ipynb`: Đo kiểm hiệu năng và lưu trữ trạng thái.
-
 ---
 *Ghi chú: File tài liệu báo cáo (.docx/.pdf) của các buổi Lab được phân chia commit và cập nhật riêng bởi thành viên trong nhóm.*
